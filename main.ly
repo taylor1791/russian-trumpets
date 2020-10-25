@@ -34,7 +34,7 @@ part_one = \relative f'' {
 
   % 13
   e4. a,8 a4.\> r8\! |
-  f4\f d8.( e16-.) f4\< c8.( e16-.) |
+  f4\f d8.( e16-.) f4\< d8.( e16-.) |
   f4 d8. f16-. bes4. r8\! |
 
   % 16
@@ -86,7 +86,7 @@ part_two = \relative c'' {
   d8 g bes, d f g a g |
 
   % 19
-  d'16 a f a cis a e a cis b a g a g f e |
+  d'16 a f a cis a e a c bes a g a g f e |
 
   % 20
   f4->\fff bes8-> bes8-> c4-> f,8.-> f16-> |
